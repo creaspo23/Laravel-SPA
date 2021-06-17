@@ -2,7 +2,7 @@
 
 # Laravel Single Page App  dashboard 
 
-Dashboard Using vue tailwindcss Laravel  
+Dashboard Using vue  & tailwindcss & Laravel  
 
 ## Installation
 
