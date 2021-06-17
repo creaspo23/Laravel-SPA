@@ -15,7 +15,7 @@ Cd SPA
 ```
 
 ## Usage
-insatll packages
+install packages
 ```run composer
 composer install
 ```
