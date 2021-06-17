@@ -20,7 +20,7 @@
                 <h1 class="text-2xl">Notfiy</h1>
             </header>
             <main class="flex">
-                <aside class="w-1/5 pt-8">
+                <aside class="w-64 pt-8">
 
                     <section class="mb-8">
 
