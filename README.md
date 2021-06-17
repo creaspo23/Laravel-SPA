@@ -2,7 +2,7 @@
 
 # fire Laravel Single Page App  dashboard 
 
-Dash board Using vue tailwindcss Laravel  
+Dashboard Using vue tailwindcss Laravel  
 
 ## Installation
 
