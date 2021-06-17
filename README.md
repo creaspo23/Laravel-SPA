@@ -2,15 +2,17 @@
 
 # Laravel Single Page App  dashboard 
 
-Dashboard Using vue  & tailwindcss & Laravel  
+<p>Dashboard Using vue  & tailwindcss & Laravel</p>  
 
 ## Installation
 
 
-download the project or  clone it
+<p>download the project or  clone it</p>
 
 cd into it
-
+```
+Cd SPA
+```
 
 ## Usage
 
