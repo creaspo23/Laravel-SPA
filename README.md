@@ -1,6 +1,6 @@
 
 
-# fire Laravel Single Page App  dashboard 
+# Laravel Single Page App  dashboard 
 
 Dashboard Using vue tailwindcss Laravel  
 
