@@ -1,8 +1,8 @@
 
 
-# Laravel Single Page App  dashboard 
+# Laravel Single Page App  Website 
 
-<p>Dashboard Using vue  & tailwindcss & Laravel</p>  
+<p>Website Using vue  & tailwindcss & Laravel</p>  
 
 ## Installation
 
@@ -11,7 +11,7 @@
 
 cd into it
 ```
-Cd SPA
+cd SPA
 ```
 
 ## Usage
@@ -21,7 +21,7 @@ composer install
 ```
 run npm
 ```install npm
-npm install
+npm install && npm run dev
 ```
 copy .env file
 ```cp .env
